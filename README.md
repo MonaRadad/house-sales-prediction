@@ -1,2 +1,5 @@
 # house-sales-prediction
-This project analyzes the data set "house-sales-prediction" and performs the data preprocessing steps on it, and then performs clustering and classification algorithms of the machine learning, and obtains the association rules and frequent patterns.
+In this project, we first analyze the data set "house_sales_prediction" 
+and then perform the data preprocessing steps, which include (clearing the data, checking the redundancy at object and attributes and fixing it, reducing the objects, and normalizing the data), 
+then the algorithms We evaluate clustering (K-means and DBSCan) with the supervised and unsupervised method, and then the machine learning classification algorithms on which we apply (MLP, SVM, KNN, MLP + SVM, MLP + KNN, Bayes, DT, Ensemble ), 
+and finally, we obtain the frequent patterns and association rules with correlation criterion.
